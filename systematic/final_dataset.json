@@ -1,0 +1,706 @@
+[
+  {
+    "user_id": "Aditi Gupta",
+    "profile_data": {
+      "headline": "E-commerce Content Writer / Copywriter / Branding Strategist",
+      "bio": "Works with founders and businesses to grow brands through content, storytelling & SEO. Builds personal brands attracting growth & leads."
+    },
+    "authenticity_score": 0.39,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Aditya Padhi",
+    "profile_data": {
+      "headline": "Java(DSA), Python (TensorFlow, PyTorch, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, NLTK, OpenCV, Pytube, Pyro) HTML, CSS, JavaScript, React, Node.js \nGit, Bootstrap, Next.js \nSQL, MongoDB, Supabase \nCelebal Technologies. SOA University Corporate Relation",
+      "bio": "Programming Languages: Java, Python, JavaScript \nData Structures and Algorithms (DSA): \nProblem-solving and optimization \nWeb Development: HTML, CSS, JavaScript"
+    },
+    "authenticity_score": 0.86,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Basava Kusumanjali",
+    "profile_data": {
+      "headline": "IT Student",
+      "bio": "3rd year B.Tech student at Sridevi Women's Engineering College, with internship experience and online certifications."
+    },
+    "authenticity_score": 0.26,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Challa Venkata ramana",
+    "profile_data": {
+      "headline": "MERN Stack and Machine Learning Enthusiast \nRAJIV GANDHI UNIVERSITY OF KNOWLEDGE TECHNOLOGIES, SRIKAKULAM \nSrikakulam, Andhra Pradesh, India",
+      "bio": "I am a full-stack developer skilled in MERN and Next.js, with a keen interest in building scalable and high-performance applications. Passionate about solving real-world problems through technology."
+    },
+    "authenticity_score": 0.68,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Debbati Saikrishna",
+    "profile_data": {
+      "headline": "Fellow at NxtWave's CCBP 4.0 Academy",
+      "bio": "Learning full-stack development, specializing in 4.0 technologies. Passionate about coding challenges and projects."
+    },
+    "authenticity_score": 0.3,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Hitanshu Sekhar Das",
+    "profile_data": {
+      "headline": "MCA Student From Fakir Mohan University, \nBalasore",
+      "bio": "am a passionate and dedicated MCA student with a strong foundation in programming and a deep interest in software development. Currently building my skills in Python and SQL, Power BI. I aim to become an expert professional capable of solving real-world problems through efficient and elegant code. \nMy leaming journey is guided by structured self-study, continuous practice, and project-based learning. I'm especially drawn to Python for its versatility and wide application in web development, data science, and automation, I'm also exploring graphics programming in C and deepening my understanding of database systems through hands-on SQL. \nWith a strong academic background and a commitment to consistent growth, I am seeking internship or entry-level opportunities that allow me to apply my knowledge, collaborate with talented teams, and contribute to impactful tech solutions. \nKey Skills: Python, C, Java, C++ Programming | \nSQL | \nProblem Solving | \nOOP | \nData Structures, \nHtml, CSS JavaScript \nCurrent Goal: Master Python development and contribute to real-world software projects \nLooking for: Internships, mentorship, or collaborations in Python development or data analyst"
+    },
+    "authenticity_score": 2.48,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Khushi Kumari",
+    "profile_data": {
+      "headline": "ASE, Role={PADA), Accenture Solutions Pvt Ltd \nFront End Developer|| \nIoT Widgets|| \nMachine \nlearning|| \nData Science|| \nSIH Winner \n2022 || \nParticipated in Startup Odisha 2023|| \nWinner in \nInnovative Model making \nAccenture in India GIET University Gunupur \nJamshedpur, Jharkhand, India",
+      "bio": ""
+    },
+    "authenticity_score": 0.59,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Lahari Burgoju",
+    "profile_data": {
+      "headline": "Student at Sridevi Women's Engineering College",
+      "bio": "3rd-year B.Tech IT student with solid foundation in programming and DBMS."
+    },
+    "authenticity_score": 0.24,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Madhan Netha",
+    "profile_data": {
+      "headline": "B.Tech Student / Aspiring Data Analyst",
+      "bio": "Completed Deloitte Data Analytics Virtual Job Simulation; skilled in SQL, Excel, Data Visualization."
+    },
+    "authenticity_score": 0.28,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Puja Sen",
+    "profile_data": {
+      "headline": "Technical Lead @ Wipro / Senior Consultant @ HCL",
+      "bio": "SAP ISU Consultant at TCS, experienced in S4 HANA Implementation. Supports multiple clients, skilled in SAP, Test Analysis, EDM."
+    },
+    "authenticity_score": 0.35,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Raghuveer Podduturi",
+    "profile_data": {
+      "headline": "Software Developer at Uncode",
+      "bio": "Software developer experimenting daily with HTML, CSS, JS, Python, Ruby. Builds delightful websites, loves challenges and learning."
+    },
+    "authenticity_score": 0.32,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Rajyalaxmi Sudhagona",
+    "profile_data": {
+      "headline": "React JS / Next JS / Node.JS / ASP.Net Developer",
+      "bio": "Full-Stack Developer with 3 years 2 months experience building responsive, user-centric web apps. Passionate and results-driven."
+    },
+    "authenticity_score": 0.35,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Rohitanshu Dhar",
+    "profile_data": {
+      "headline": "Aspiring Data Analyst & Data Science Enthusiast! \nHackfest 2025 Winner (Inventory Mgmt) \n| Runner-up at Al & ML Hackathon - GIFT Autonomous \nRunner-Up InnovativeX4.0 (GIET BANIATANGI HACKATHON) \nBiju Patnaik University of Technology, Odisha \nBhubaneswar, Odisha, India",
+      "bio": "Hi there I'm Rohitanshu Dhar, \na passionate Computer Science student with a strong interest in Artificial Intelligence, Machine Learning, and Data Analytics. \nI'm dedicated to exploring and developing innovative AI/ML solutions while continuously improving my skills in software development and data-driven problem solving. I enjoy working on projects that have real-world impact and allow me to grow both technically and creatively."
+    },
+    "authenticity_score": 1.41,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Sakshi Kumari Sinha",
+    "profile_data": {
+      "headline": "Cyber Security Club Member || \nWebEye Club \nMember || \nEthical Hacking || \nWeb Development \n|| Networking || \ncyber security enthusiast || \nStudent at GIET University Gunupur \nGIET University Gunupur \nGunupur, Odisha, India",
+      "bio": ""
+    },
+    "authenticity_score": 0.46,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Sasi Kiran",
+    "profile_data": {
+      "headline": "Bridging Code & Crops \nCSE (AIML) 26 \nIntern @ Turtil \nHyderabad | \nPredictive Analytics \nResearcher \nCode Whisperer in Python",
+      "bio": "My name is Pedina Sasikiran, and I am currently pursuing a B.tech in Computer science and Engineering (AIML).I am in second year of studies and about passionate about exploring the various aspects of fields \nThroughout my academic journey, I have developed a strong foundation in programming languages such as C and intermediate level of knowledge in Java, Python, and JavaScript I have also gained experience in Data structure, algorithms, and database management system with the help of MySQL. Additionally, i am continuously seeking new challenges and opportunities to learn and grow. \nIn the future, i aspire to work in the tech industry, where I can leverage my skills and knowledge to build innovative and impactful solution I am keen to explore the different domains of computer science such as data science and analytics, artificial intelligence and machine learning and contribute to the advancements in these areas. \nPassionate about creating solutions that bridge the gap between theory and practical application in the field of Artificial intelligence and machine learning engineering. With a strong foundation in design principles and project management, I strive to bring efficiency and excellence to every project I undertake. \nThank you for visiting my profile and I look forward to connecting with the like-minded professionals in the industry"
+    },
+    "authenticity_score": 2.98,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Savan Patel",
+    "profile_data": {
+      "headline": "Co-Founder @Smilon",
+      "bio": "Entrepreneur with 6+ years launching and scaling SaaS across healthcare, retail, gym, hotel, dental sectors. Open to partnerships."
+    },
+    "authenticity_score": 0.3,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Shwejan Kiran Salla",
+    "profile_data": {
+      "headline": "Fellow at NxtWave's CCBP Academy / Student",
+      "bio": "Learning full stack development with specialization in 4.0 technologies and hands-on projects."
+    },
+    "authenticity_score": 0.27,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Smruti Suman Badjena",
+    "profile_data": {
+      "headline": "Blue Teamer | \nCyber Security Analyst | \nCTF \nDeveloper | \nDefensive \nContent Engineer | \nSOC | \nSplunk | \nCyber Security \nTrainer \nWazuh | DFIR | \nLumenXo Software Pvt. Ltd. GIET University Gunupur \nOdisha, India",
+      "bio": "with hands-on experience in Security Operations Center (SOC) environments and blue teaming \nstrategies. I aspire to join an organization"
+    },
+    "authenticity_score": 0.7,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Swathi Merugu",
+    "profile_data": {
+      "headline": "B.Tech CSE '25 / Aspiring Prompt Engineer",
+      "bio": "Skilled in C++, ML, Python, MySQL, Java, Cloud Computing, Web Dev. Learning LLMs, prompt engineering."
+    },
+    "authenticity_score": 0.29,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "TEJASWINI MISHRA",
+    "profile_data": {
+      "headline": "Matrix-Marketing Club Member \nMatrix-The Marketing Club School of Management, \nNIT Rourkela",
+      "bio": "Namashkar and Greetings Everyone! \nI am currently pursuing a Master of Business Administration (MBA) in the School of Management, NIT Rourkela. \nAspiring HR Professional | Dedicated to Social Impact \nMatrix Marketing Club Member \nI'm an aspiring HR professional with a strong foundation in sociology. My journey as a member of the Matrix Marketing Club's content writing team has honed my communication and teamwork skills. Good listening skills are my forte, allowing me to comprehend diverse viewpoints and facilitate effective communication. My dedication to excellence and a profound belief in professionalism drive my work ethic. \nMy heart beats for making a difference in the world, which is why I'm deeply interested in contributing to the meaningful work of non-governmental organizations (NGOs). \nI believe that my blend of skills, dedication, and sociological insights can be a valuable asset in driving positive change."
+    },
+    "authenticity_score": 2.05,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Tamil Tamil",
+    "profile_data": {
+      "headline": "Certified Ethical Hacker (CEHv12) | Security \nResearcher at Bugcrowd (Bug Hunter) Top 300 \n| Web Application Pentester | \nBriskinfosec Technology and Consulting Pvt Ltd. \nShanmuganathan engineering college \nKaraikkudi, Tamil Nadu, India",
+      "bio": ""
+    },
+    "authenticity_score": 0.48,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Ujjwal Raj",
+    "profile_data": {
+      "headline": "Pre-Final Year Student at IIITDM \nKancheepuram || DataScience and AI/ML \nEngineer \nIndian Institute of Information Technology Design & Manufacturing Kancheepuram",
+      "bio": "Engineering student passionate about Al, ML, Data Science, and Generative Al. Building autonomous systems for medical imaging, mobility, and SaaS solutions."
+    },
+    "authenticity_score": 0.64,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Yamini Reddy",
+    "profile_data": {
+      "headline": "Data Analyst",
+      "bio": "Results-oriented Data Analyst with 2+ years transforming data into actionable insights for business growth."
+    },
+    "authenticity_score": 0.24,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Nikita Mehta",
+    "profile_data": {
+      "headline": "Web developer with 3 years of freelance experience",
+      "bio": "Developed a fraud detection system using machine learning."
+    },
+    "authenticity_score": 0.22,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Tanvi Shah",
+    "profile_data": {
+      "headline": "Web developer with 3 years of freelance experience",
+      "bio": "Created an AI chatbot deployed on cloud servers."
+    },
+    "authenticity_score": 0.2,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Anjali Deshmukh",
+    "profile_data": {
+      "headline": "Hackathon winner and open-source contributor",
+      "bio": "Researched and published papers in NLP and robotics."
+    },
+    "authenticity_score": 0.19,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Riya Sen",
+    "profile_data": {
+      "headline": "Hackathon winner and open-source contributor",
+      "bio": "Created an AI chatbot deployed on cloud servers."
+    },
+    "authenticity_score": 0.19,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Gaurav Dubey",
+    "profile_data": {
+      "headline": "Data science intern at fintech startup",
+      "bio": "Researched and published papers in NLP and robotics."
+    },
+    "authenticity_score": 0.18,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Tanya Jain",
+    "profile_data": {
+      "headline": "Data science intern at fintech startup",
+      "bio": "Created an AI chatbot deployed on cloud servers."
+    },
+    "authenticity_score": 0.17,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Isha Bansal",
+    "profile_data": {
+      "headline": "Final-year CS student specializing in AI",
+      "bio": "Developed a fraud detection system using machine learning."
+    },
+    "authenticity_score": 0.2,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Pallavi Das",
+    "profile_data": {
+      "headline": "Final-year CS student specializing in AI",
+      "bio": "Built web applications for real-time data monitoring."
+    },
+    "authenticity_score": 0.19,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Kunal Ghosh",
+    "profile_data": {
+      "headline": "Hackathon winner and open-source contributor",
+      "bio": "Developed a fraud detection system using machine learning."
+    },
+    "authenticity_score": 0.21,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Jyoti Singh",
+    "profile_data": {
+      "headline": "Web developer with 3 years of freelance experience",
+      "bio": "Built web applications for real-time data monitoring."
+    },
+    "authenticity_score": 0.21,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Krishna Bhatt",
+    "profile_data": {
+      "headline": "Web developer with 3 years of freelance experience",
+      "bio": "Researched and published papers in NLP and robotics."
+    },
+    "authenticity_score": 0.21,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Avni Mehra",
+    "profile_data": {
+      "headline": "Final-year CS student specializing in AI",
+      "bio": "Researched and published papers in NLP and robotics."
+    },
+    "authenticity_score": 0.19,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Lavanya Pillai",
+    "profile_data": {
+      "headline": "Hackathon winner and open-source contributor",
+      "bio": "Built web applications for real-time data monitoring."
+    },
+    "authenticity_score": 0.2,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Harshit Jain",
+    "profile_data": {
+      "headline": "Final-year CS student specializing in AI",
+      "bio": "Created an AI chatbot deployed on cloud servers."
+    },
+    "authenticity_score": 0.18,
+    "verdict": "authentic",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Akanksha Rawat",
+    "profile_data": {
+      "headline": "Data science intern at fintech startup",
+      "bio": "Developed a fraud detection system using machine learning."
+    },
+    "authenticity_score": 0.19,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Sneha Kapoor",
+    "profile_data": {
+      "headline": "Data science intern at fintech startup",
+      "bio": "Built web applications for real-time data monitoring."
+    },
+    "authenticity_score": 0.18,
+    "verdict": "authentic",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Bhavna Rathi",
+    "profile_data": {
+      "headline": "Visionary engineer and team player",
+      "bio": "Always motivated to exceed expectations in tech."
+    },
+    "authenticity_score": 0.17,
+    "verdict": "likely_fabricated",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Rakesh Nair",
+    "profile_data": {
+      "headline": "Goal-driven tech enthusiast",
+      "bio": "Visionary thinker passionate about software innovation."
+    },
+    "authenticity_score": 0.17,
+    "verdict": "likely_fabricated",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Swati Mishra",
+    "profile_data": {
+      "headline": "Goal-driven tech enthusiast",
+      "bio": "Hardworking individual passionate about success."
+    },
+    "authenticity_score": 0.15,
+    "verdict": "likely_fabricated",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Saurabh Bhatia",
+    "profile_data": {
+      "headline": "Passionate coder and self-starter",
+      "bio": "Team player with strong communication and leadership."
+    },
+    "authenticity_score": 0.17,
+    "verdict": "likely_fabricated",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Amit Verma",
+    "profile_data": {
+      "headline": "Passionate coder and self-starter",
+      "bio": "Visionary thinker passionate about software innovation."
+    },
+    "authenticity_score": 0.18,
+    "verdict": "likely_fabricated",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Meera Iyer",
+    "profile_data": {
+      "headline": "Goal-driven tech enthusiast",
+      "bio": "Always motivated to exceed expectations in tech."
+    },
+    "authenticity_score": 0.15,
+    "verdict": "likely_fabricated",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Deepa Nair",
+    "profile_data": {
+      "headline": "Goal-driven tech enthusiast",
+      "bio": "Team player with strong communication and leadership."
+    },
+    "authenticity_score": 0.16,
+    "verdict": "likely_fabricated",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Pooja Sharma",
+    "profile_data": {
+      "headline": "Motivated leader and hardworking developer",
+      "bio": "Hardworking individual passionate about success."
+    },
+    "authenticity_score": 0.18,
+    "verdict": "likely_fabricated",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Rahul Chauhan",
+    "profile_data": {
+      "headline": "Motivated leader and hardworking developer",
+      "bio": "Visionary thinker passionate about software innovation."
+    },
+    "authenticity_score": 0.2,
+    "verdict": "likely_fabricated",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Divya Gupta",
+    "profile_data": {
+      "headline": "Motivated leader and hardworking developer",
+      "bio": "Always motivated to exceed expectations in tech."
+    },
+    "authenticity_score": 0.18,
+    "verdict": "likely_fabricated",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Vikas Yadav",
+    "profile_data": {
+      "headline": "Visionary engineer and team player",
+      "bio": "Team player with strong communication and leadership."
+    },
+    "authenticity_score": 0.18,
+    "verdict": "likely_fabricated",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Nikhil Chopra",
+    "profile_data": {
+      "headline": "Passionate coder and self-starter",
+      "bio": "Hardworking individual passionate about success."
+    },
+    "authenticity_score": 0.16,
+    "verdict": "likely_fabricated",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Yash Malhotra",
+    "profile_data": {
+      "headline": "Visionary engineer and team player",
+      "bio": "Visionary thinker passionate about software innovation."
+    },
+    "authenticity_score": 0.18,
+    "verdict": "likely_fabricated",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Neha Agarwal",
+    "profile_data": {
+      "headline": "Motivated leader and hardworking developer",
+      "bio": "Team player with strong communication and leadership."
+    },
+    "authenticity_score": 0.19,
+    "verdict": "likely_fabricated",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  },
+  {
+    "user_id": "Priya Reddy",
+    "profile_data": {
+      "headline": "Passionate coder and self-starter",
+      "bio": "Always motivated to exceed expectations in tech."
+    },
+    "authenticity_score": 0.16,
+    "verdict": "likely_fabricated",
+    "reason": "Natural language, few red flags",
+    "flagged_fields": []
+  },
+  {
+    "user_id": "Rajeev Iyer",
+    "profile_data": {
+      "headline": "Visionary engineer and team player",
+      "bio": "Hardworking individual passionate about success."
+    },
+    "authenticity_score": 0.17,
+    "verdict": "likely_fabricated",
+    "reason": "Buzzword match and low uniqueness",
+    "flagged_fields": [
+      "headline",
+      "bio"
+    ]
+  }
+]
